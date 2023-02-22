@@ -1,0 +1,19 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#gameDiv {
+    text-align: center;
+}
+
+#gameBoard {
+    border: 3px solid;
+}
+
+#score {
+    font-size: 100px;
+}
+
+#resetBtn {
+    font-family: 'Courier New', Courier, monospace;
+}
